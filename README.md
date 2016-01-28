@@ -8,4 +8,4 @@ Much of it will deal with accessing large numbers of genomes in .fasta format an
 
 I may not visit this page often, so messages may not be returned quickly.
 
-Most of this will work with bash and Python 3.5/3.6. Please read markup at the beginning of files for additional information.
+Most of this will work with bash and Python 3.5. Please read markup at the beginning of files for additional information.
