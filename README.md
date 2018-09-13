@@ -1,4 +1,4 @@
-# TimmeSalmonella
+# Salmonella2018
 The Salmonella genome sequence project code-share.
 
 This contains various programs for doing things within the Salmonella project.
